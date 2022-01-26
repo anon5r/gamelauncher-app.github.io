@@ -7,7 +7,7 @@ Ks Game Launcher
 ## [Download here](https://github.com/anon5r/KsGameLauncher/releases)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anon5r/KSGameLauncher/main/docs/res/screen1.png" alt="preview" width="500">
+  <img src="https://raw.githubusercontent.com/anon5r/ksgamelauncher-docs/main/res/screen1.png" alt="preview" width="500">
 </p>
 
 
@@ -16,6 +16,11 @@ Ks Game Launcher
 This is an application to start the BEMANI for コナステ with one click.
 
 When playing the BEMANI games for the コナステ version, you can launch the game without your browser. You can be started with one click from this tool.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anon5r/ksgamelauncher-docs/main/res/screen_anim.gif" alt="preview animation" width="480">
+</p>
 
 ## How does it work?
 

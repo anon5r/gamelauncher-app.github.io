@@ -7,7 +7,7 @@ Ks Game Launcher
 ## [ここからダウンロードできます](https://github.com/anon5r/KsGameLauncher/releases)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anon5r/KSGameLauncher/main/docs/res/screen1.png" alt="preview" width="500">
+  <img src="https://raw.githubusercontent.com/anon5r/ksgamelauncher-docs/main/res/screen1.png" alt="preview" width="500">
 </p>
 
 
@@ -18,6 +18,10 @@ Ks Game Launcher
 コナステのダウンロード版ゲーム（おうちBEMANIシリーズ、ボンバーガールなど）をプレイする際は、ショートカットから一度ブラウザを起動し、画面内のボタンをクリックして初めてゲームランチャーを起動することができます。
 
 画面を行き来したりして少々煩わしいので、コナステにログインするためのアカウントを事前に登録しておき、ゲームは本ツールからワンクリックで起動することができるようにすることができます。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anon5r/ksgamelauncher-docs/main/res/screen_anim.gif" alt="preview animation" width="480">
+</p>
 
 ## どのような仕組み？
 
