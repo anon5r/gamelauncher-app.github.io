@@ -52,6 +52,32 @@ For items distributed outside the specified schedule, the above cannot be guaran
 
 
 
+
+## About One-Time Password
+
+(ver. 1.0.1~)
+
+For information about One-Time Password (OTP), see [コナミワンタイムパスワードサービスとは？ (What is Konami One-time Password Service?)(Japanese)](https://my.konami.net/otp.html).
+
+If OTP is enabled when you log in to your KONAMI ID, check "Use OTP" from the Account Management screen.
+
+If you checked it, a dialog prompting you to enter a OTP will be displayed when you log in. Enter the number displayed on the token device or your OTP app.
+
+
+
+## About Two-Factor Authentication
+
+(ver. 1.0.1~)
+
+For more information on two-factor authentication (2FA), see [二段階認証とは？ (What is two-factor authentication?)(Japanese)](https://my.konami.net/faq/twostepguide.html).
+
+If you log in with an account that has 2FA enabled, you'll be prompted to enter your 2FA code.
+Please enter the number notified by email.
+
+You can log in without a code for about 180 days from the last time you entered it.
+
+
+
 ## Launch from shortcuts
 
 You can launch the game directly from the shortcut without using this launcher app.
@@ -102,7 +128,7 @@ Double-clicking on the shortcut will instantly launch the Ks Game Launcher, but 
 
 After that, the launcher of the game will be launched.
 
-
+* At this time, if your account has two-step verification (2FA) enabled and you need to log in, you will be prompted to enter the 2FA code.
 
 ### If you don't need shortcut launch feature
 
