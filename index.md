@@ -26,6 +26,14 @@ When playing the BEMANI games for the コナステ version, you can launch the g
 
 Using the account stored in the computer in advance, login is performed in the same way as when accessing with a browser, and even the button click on the launcher startup screen is automated.
 
+Check out [Gist here](https://gist.github.com/anon5r/3304b88e8b6e8a28805f2ddc942f2a2f) to see how it works.
+
+It reproduces the same behavior using [Microsoft&reg; Power Automate](https://flow.microsoft.com). What we are doing is almost the same as this.
+
+
+
+## How to use
+
 0. Register an account via this app.
 1. Select the game to start
 
